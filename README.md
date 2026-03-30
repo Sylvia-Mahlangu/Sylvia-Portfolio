@@ -44,7 +44,7 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 ---
 
 ## 📄 My CV
-[💖 Download My CV](./)
+[💖 Download My CV](https://github.com/Sylvia-Mahlangu/Sylvia-Portfolio/blob/main/SM%20MAHLANGU%20RESUME.pdf)
 
 ---
 
