@@ -101,8 +101,9 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 ---
 
 ## 🌐 Contact Me
-💌 Email: 222954396@mycput.ac.za
-💼 LinkedIn: www.linkedin.com/in/sylvia-mahlangu-4ab380257 
+💌 Email: 222954396@mycput.ac.za  
+📱 Phone: 066 398 6026  
+💼 LinkedIn: https://www.linkedin.com/in/sylvia-mahlangu-4ab380257  
 
 
 ---
