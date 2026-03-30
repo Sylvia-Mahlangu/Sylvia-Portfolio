@@ -1,7 +1,8 @@
 # 💖👩🏽‍💻 Sylvia Mahlangu - GitHub Portfolio
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+Portfolio" />
+  <img src="![image0 (1)](https://github.com/user-attachments/assets/10e761c3-c77f-49a6-a2df-844ec6d6ddae)
+" />
 </p>
 
 ---
@@ -48,7 +49,7 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 ---
 
 ## 🎥 Mock Interview
-[🎬 Watch My Interview](PASTE-YOUR-LINK-HERE)
+[🎬 Watch My Interview](https://drive.google.com/file/d/1WKuaw2m74cHATqzAprFYHRq7oAeOlw_2/view?usp=drive_link)
 
 ---
 
