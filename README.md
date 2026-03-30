@@ -4,7 +4,9 @@
   <img src="![image0 (1)](https://github.com/user-attachments/assets/10e761c3-c77f-49a6-a2df-844ec6d6ddae)
 " />
 </p>
-✨ Aspiring Software Developer | ICT Student | Tech Girl 💻💖
+
+                          ✨ Aspiring Software Developer | ICT Student | Tech Girl 💻💖
+
 ---
 
 ## 🌸 About Me
