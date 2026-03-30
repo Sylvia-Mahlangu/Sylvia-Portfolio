@@ -68,27 +68,6 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 
 ---
 
-## 📂 Projects
-
-### 🌟 Bursary Management System (Web Application)
-- Designed and developed a full-stack bursary management system  
-- Built frontend using HTML, CSS, and JavaScript  
-- Implemented backend using Node.js and Express  
-- Developed secure login and session authentication features  
-- Implemented file upload functionality for document submission  
-- Designed and integrated a MySQL database  
-- Applied structured project planning using multiple user stories  
-
----
-
-### 💻 Personal Portfolio Website
-- Created a personal portfolio to showcase technical and academic projects  
-- Organized and uploaded project files and system documentation  
-- Used Google Drive for file hosting and sharing  
-- Provided accessible links to demonstrate development work  
-- Continuously updated portfolio with new projects  
-
----
 
 ## 📄 My CV
 [💖 Download My CV](https://github.com/Sylvia-Mahlangu/Sylvia-Portfolio/blob/main/SM%20MAHLANGU%20RESUME.pdf)
