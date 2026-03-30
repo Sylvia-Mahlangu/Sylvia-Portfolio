@@ -5,7 +5,7 @@
 " />
 </p>
 
-                          ✨ Aspiring Software Developer | ICT Student | Tech Girl 💻💖
+                             ✨ Aspiring Software Developer | ICT Student | Tech Girl 💻💖
 
 ---
 
