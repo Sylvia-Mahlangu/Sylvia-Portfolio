@@ -18,13 +18,11 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 ---
 
 ## 💼 Work Experience
-### ✨ (Your Job Title Here)
-- Company Name
-- Duration (e.g. Jan 2024 – Present)
+### ✨ (Sales Assistant)
+- Ackermans
+- Duration (June 2025 – Present)
 - Responsibilities:
-  - Assisted with...
-  - Worked on...
-  - Gained experience in...
+  - Promoted Products directly to customers, explained features and benefits, and drove sales by meeting daily and weekly targets. Maintained attractive displays, engaged customers professionally, and provided feeback to the sales team to improve performance.
 
 ---
 
