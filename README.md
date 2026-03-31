@@ -74,8 +74,11 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 
 ---
 
-## 🎥 Mock Interview
-[🎬 Watch My Interview](https://drive.google.com/file/d/1WKuaw2m74cHATqzAprFYHRq7oAeOlw_2/view?usp=drive_link)
+<h2>Mock Interviw Video</h2>
+<video width="600" controls>
+<source src="video/Interview.mp4"
+type="video/mp4">
+</video>
 
 ---
 
@@ -84,19 +87,10 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 📱 Phone: 066 398 6026  
 💼 LinkedIn: https://www.linkedin.com/in/sylvia-mahlangu-4ab380257  
 
-
 ---
 
 ## 🌷 Career Goals
 To grow as a software developer and contribute to impactful, innovative tech solutions.
-
----
-
-<h2>Mock Interviw Video</h2>
-<video width="600" controls>
-<source src="video/Interview.mp4"
-type="video/mp4">
-</video>
 
 ---
 
