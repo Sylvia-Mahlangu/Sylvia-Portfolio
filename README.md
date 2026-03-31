@@ -2,7 +2,7 @@
 
 
 
-                             ✨ Aspiring Software Developer | ICT Student | Tech Girl 💻💖
+                                ✨ Aspiring Software Developer | ICT Student | Tech Girl 💻💖
 
 ---
 
@@ -40,12 +40,33 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 - Restocked merchandise and maintained organized store displays  
 - Delivered excellent customer service in a fast-paced retail environment  
 - Strengthened teamwork and problem-solving skills  
-    
- 
 ---
- ## 🛠️ Currently Working On
-- Improving my Java and backend development skills
-- Building real-world systems
+## 📂 Projects
+
+### 🌟 Bursary Management System (Web Application)
+- Designed and developed a full-stack bursary management system  
+- Built frontend using HTML, CSS, and JavaScript  
+- Implemented backend using Node.js and Express  
+- Developed secure login and session authentication features  
+- Implemented file upload functionality for document submission  
+- Designed and integrated a MySQL database  
+- Applied structured project planning using multiple user stories  
+
+---
+
+### 💻 Personal Portfolio Website
+- Created a personal portfolio to showcase technical and academic projects  
+- Organized and uploaded project files and system documentation  
+- Used Google Drive for file hosting and sharing  
+- Provided accessible links to demonstrate development work  
+- Continuously updated portfolio with new projects  
+
+---
+
+## 🛠️ Currently Working On
+- Improving my Java and backend development skills  
+- Building real-world systems  
+- Expanding my full-stack development knowledge  
 
 ---
 
