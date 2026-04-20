@@ -60,7 +60,7 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 - Programming: Java  
 - Database: SQL, MySQL  
 - Web Development: HTML, CSS, JavaScript  
-- Tools: GitHub, NetBeans, Visual Studio Code  
+- Tools: GitHub, NetBeans, Visual Studio Code , IntelliJ
 
 ---
 
@@ -75,7 +75,6 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 <source src="video/Interview.mp4"
 type="video/mp4">
 </video>
----
 
 ## 🧠 Reflection on Coding in Markdown (STAR Method)
 
