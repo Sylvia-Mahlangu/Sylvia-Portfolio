@@ -74,7 +74,7 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 type="video/mp4">
 </video>
 
-## 🧠 Reflection on Coding in Markdown (STAR Method)
+## 🧠 Reflection on Coding in Markdown 
 
 **Situation:**  
 I was required to create a digital portfolio using GitHub and Markdown for my Project Presentation assessment.
@@ -90,7 +90,7 @@ I successfully created a well-structured portfolio and improved my technical doc
 
 ---
 
-## 🎤 Reflection on Mock Interview (STAR Method)
+## 🎤 Reflection on Mock Interview 
 
 **Situation:**  
 As part of my work readiness training, I had to participate in a mock interview.
@@ -106,7 +106,7 @@ I gained confidence in my speaking abilities and improved my interview skills. I
 
 ---
 
-## 🌐 Reflection on GitHub Pages (STAR Method)
+## 🌐 Reflection on GitHub Pages 
 
 **Situation:**  
 I was required to publish my digital portfolio online using GitHub Pages.
